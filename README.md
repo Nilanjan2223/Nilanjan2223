@@ -1,4 +1,4 @@
-![logo]("https://github.com/Nilanjan2223/Nilanjan2223/blob/main/Data%20is%20the%20brush%2C%20algorithms%20are%20the%20strokes%2C%20and%20machine%20learning%20engineers%20are%20the%20artists%20that%20create%20masterpieces..png")
+![logo](https://github.com/Nilanjan2223/Nilanjan2223/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Nilanjan Sarkar</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast and Data Science Apprentice</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
